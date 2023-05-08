@@ -12,16 +12,17 @@ Horarios, índices a los repositorios de alumnos y normas para las presentacione
 
 ## Cuadrante horario de las presentaciones con índices a los repositorios
 
-Cada alumno debe enlazar con el repositorio donde tiene su presentación.
+Cada alumno debe subir su presentación (formato elegido y pdf) en la carpeta proporcionada en el enlace de su correspondiente empresa.
 
 ### :calendar: Lunes 29 de mayo de 2023
 
 <img height="36px" src="accenture.svg">
+[Accenture](https://drive.google.com/drive/folders/1gpkeOfsIk_ru_VZrFLiW2yWpiQRgDt6J?usp=sharing)
 
 ##### 1ºDAW
 
-* 09:30h [Capilla Pérez, Ana](https://github.com/mnataliacm/FpDual2022_1DAM)
-* 09:40h [Romero Martínez, Ginabra](https://github.com/Veronicagnzpns/PresentacionFpDual2022)
+* 09:30h Capilla Pérez, Ana
+* 09:40h Romero Martínez, Ginabra
 
 ##### 1ºDAM
 
