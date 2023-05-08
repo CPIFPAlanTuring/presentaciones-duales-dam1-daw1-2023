@@ -19,6 +19,7 @@ Cada alumno debe subir su presentación (formato elegido y pdf) en la carpeta pr
 <img height="36px" src="accenture.svg">
 * [Accenture](https://drive.google.com/drive/folders/1gpkeOfsIk_ru_VZrFLiW2yWpiQRgDt6J?usp=sharing)
 
+
 ##### 1ºDAW
 
 * 09:30h Capilla Pérez, Ana
