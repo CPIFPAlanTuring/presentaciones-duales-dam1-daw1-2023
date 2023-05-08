@@ -16,9 +16,102 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 
 ### :calendar: Lunes 29 de mayo de 2023
 
+<img height="36px" src="accenture.svg">
+
+##### 1ºDAW
+
+* 09:30h [Capilla Pérez, Ana](https://github.com/mnataliacm/FpDual2022_1DAM)
+* 09:40h [Romero Martínez, Ginabra](https://github.com/Veronicagnzpns/PresentacionFpDual2022)
+
+##### 1ºDAM
+
+* 09:50h [García Guerrero, Antonio Luis]()
+
+<hr>
+
+<img "Airzone">
+
+##### 1º DAW
+
+* 09:30h [Moreno Ayala, Alberto](https://github.com/mnataliacm/FpDual2022_1DAM)
+
+<hr>
+
+<img "CGI">
+
+##### 1º DAW
+
+* 09:30h [Rolando Martínez, Sergio](https://github.com/mnataliacm/FpDual2022_1DAM)
+
+<hr>
+
+<img "Dedalus">
+
+##### 1º DAW
+
+* 09:30h [López De la Torre, Julia](https://github.com/mnataliacm/FpDual2022_1DAM)
+* 09:30h [Díaz Marín, José Pablo](https://github.com/mnataliacm/FpDual2022_1DAM)
+
+<hr>
+
+<img height="30px" src="dekra.svg">
+
+##### 1ºDAW
+
+* 10:40h [Martos Ruiz, David](https://github.com/DavidAntunezPerez/presentation-dual-2022-dd)
+* 10:50h [Navas Martín, Jaime](https://github.com/AleCueto/presentation-dual-2022-dd)
+
+<hr>
+
+<img "Hogarola">
+
+##### 1º DAM
+
+* 09:30h [Herrera Sánchez, Jesús](https://github.com/mnataliacm/FpDual2022_1DAM)
+
+<hr>
+
+<img "La Buhardilla del mark.">
+
+##### 1º DAM
+
+* 09:30h [Belean, Denisa-Ramona](https://github.com/mnataliacm/FpDual2022_1DAM)
+
+<hr>
+
+<img height="26px" src="nttdata.png">
+
+##### 1ºDAW
+
+* 11:45h [Sánchez Martín, Roberto](https://github.com/alejandroAguileraGarcia/presentacion_dual)
+* 11:55h [Portillo Hoyos, David](https://github.com/narsodev/daw-presentacion-dual)
+* 12:05h [Pucheta Posdeley, David Natanael](https://github.com/ehm4/Presentaci-n-dual)
+
+<hr>
+
+
+### :calendar: Martes 30 de mayo de 2023
+
+<img height="46px" src="opplus.png">
+
+##### 1ºDAW
+
+* 10:10h [Sánchez Martínez, José](https://github.com/miguelmunval/presentacion)
+* 10:20h [Sánchez Rojas, Pablo](https://github.com/PabloSanRoj/daw-presentacion-opplus-dual)
+
+<hr>
+
+
+
+
+
+
+
+
+
 <img height="28px" src="viewnext.png">
 
-##### 1ºDAM M
+##### 1ºDAM 
 
 * 12:00h [Morales García, Sergio](https://github.com/sergiomoralesgarcia/DesarrolloFacturas)
 * 12:10h [Domínguez Gomez, Sergio](https://github.com/SergioDominguez15/Presentacion-Dual.git)
