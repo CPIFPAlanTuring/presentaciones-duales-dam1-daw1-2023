@@ -52,7 +52,7 @@ Hora de comienzo: 9:00h
 
 <hr>
 
-<img height="30px" src="dedalus-logo-white.jpg">
+<img height="30px" src="dedalus-logo-white.svg">
 [Carpeta Dedalus](https://drive.google.com/drive/folders/1M3YcADG9h8i7ssswwBoz6MeP5gqDUpTr?usp=sharing)
 Hora de comienzo: 9:10h
 
