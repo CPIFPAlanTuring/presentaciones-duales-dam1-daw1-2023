@@ -75,7 +75,7 @@ Hora de comienzo: 9:25h
 <hr>
 
 
-<img height="30px" src="hogarola.jpg">
+<img height="50px" src="hogarola.jpg">
 [Carpeta Hogarola](https://drive.google.com/drive/folders/1OdwqPWsNzMcNyUmviyIoer5kNB0J-OGD?usp=sharing)
 Hora de comienzo: 9:40h
 
@@ -173,13 +173,13 @@ Hora de comienzo: 9:40h
 
 ##### 1ºDAM 
 
-* 12:00h [Gutiérrez Mellado, Juan Manuel](https://github.com/sergiomoralesgarcia/DesarrolloFacturas)
-* 12:10h [Ruiz Artacho, Marina](https://github.com/SergioDominguez15/Presentacion-Dual.git)
+* Gutiérrez Mellado, Juan Manuel
+* Ruiz Artacho, Marina
 
 ##### 1ºDAW
 
-* 12:20h [Cedillo Serrato, Francisco](https://github.com/FranciscoBautistaSomo/dualViewNextFranciscoBautista)
-* 12:30h [Santiago Perea, Vicente](https://github.com/hugosanchezg/presentacionDual)
+* Cedillo Serrato, Francisco
+* Santiago Perea, Vicente
 
 <hr>
 
