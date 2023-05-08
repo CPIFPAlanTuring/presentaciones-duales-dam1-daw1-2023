@@ -76,8 +76,8 @@ Hora de comienzo: 9:25h
 
 
 <img height="50px" src="hogarola.jpg">
-[Carpeta Hogarola](https://drive.google.com/drive/folders/1OdwqPWsNzMcNyUmviyIoer5kNB0J-OGD?usp=sharing)
-Hora de comienzo: 9:40h
+* [Carpeta Hogarola](https://drive.google.com/drive/folders/1OdwqPWsNzMcNyUmviyIoer5kNB0J-OGD?usp=sharing)
+* Hora de comienzo: 9:40h
 
 ##### 1º DAM
 
@@ -85,7 +85,7 @@ Hora de comienzo: 9:40h
 
 <hr>
 
-<img height="30px" src="buhardilla.jpg">
+<img height="50px" src="buhardilla.jpg">
 [Carpeta Buhardilla](https://drive.google.com/drive/folders/14ovcRff1hUEMxhPoULpnqUUk_oA3TYtX?usp=sharing)
 Hora de comienzo: 9:50h
 
