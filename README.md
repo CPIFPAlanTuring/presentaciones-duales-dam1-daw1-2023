@@ -14,7 +14,7 @@ Horarios, índices a los repositorios de alumnos y normas para las presentacione
 
 Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 
-### :calendar: Jueves 26 de mayo de 2022
+### :calendar: Lunes 29 de mayo de 2023
 
 <img height="28px" src="viewnext.png">
 
@@ -31,7 +31,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 
 <hr>
 
-### :calendar: Viernes 27 de mayo de 2022
+### :calendar: Martes 30 de mayo de 2023
 
 <img height="36px" src="accenture.svg">
 
