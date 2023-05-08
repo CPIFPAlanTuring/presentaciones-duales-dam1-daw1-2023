@@ -17,21 +17,21 @@ Cada alumno debe subir su presentación (formato elegido y pdf) en la carpeta pr
 ### :calendar: Lunes 29 de mayo de 2023
 
 <img height="36px" src="accenture.svg">
-[Accenture](https://drive.google.com/drive/folders/1gpkeOfsIk_ru_VZrFLiW2yWpiQRgDt6J?usp=sharing)
+[Carpeta de Accenture](https://drive.google.com/drive/folders/1gpkeOfsIk_ru_VZrFLiW2yWpiQRgDt6J?usp=sharing)
 
+##### 1ºDAM
+
+* 09:50h [García Guerrero, Antonio Luis]
 
 ##### 1ºDAW
 
 * 09:30h Capilla Pérez, Ana
 * 09:40h Romero Martínez, Ginabra
 
-##### 1ºDAM
-
-* 09:50h [García Guerrero, Antonio Luis]
-
 <hr>
 
 <img "Airzone">
+[Carpeta de Airzone](https://drive.google.com/drive/folders/1Zt9m-TFQLxiqY9hYcSS0pqeXdNqemFez?usp=sharing)
 
 ##### 1º DAW
 
@@ -40,6 +40,7 @@ Cada alumno debe subir su presentación (formato elegido y pdf) en la carpeta pr
 <hr>
 
 <img "CGI">
+[Carpeta CGI](https://drive.google.com/drive/folders/1ce0kc9lUb5vCx0I0pxN6eUG5VrAGUrJs?usp=sharing)
 
 ##### 1º DAW
 
