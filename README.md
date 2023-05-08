@@ -97,62 +97,6 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 ##### 1ºDAW
 
 * 10:10h [Sánchez Martínez, José](https://github.com/miguelmunval/presentacion)
-* 10:20h [Sánchez Rojas, Pablo](https://github.com/PabloSanRoj/daw-presentacion-opplus-dual)
-
-<hr>
-
-
-
-
-
-
-
-
-
-<img height="28px" src="viewnext.png">
-
-##### 1ºDAM 
-
-* 12:00h [Morales García, Sergio](https://github.com/sergiomoralesgarcia/DesarrolloFacturas)
-* 12:10h [Domínguez Gomez, Sergio](https://github.com/SergioDominguez15/Presentacion-Dual.git)
-
-##### 1ºDAW
-
-* 12:20h [Bautista Somosierra, Francisco Alberto](https://github.com/FranciscoBautistaSomo/dualViewNextFranciscoBautista)
-* 12:30h [Sánchez González, Hugo](https://github.com/hugosanchezg/presentacionDual)
-* 12:40h [Vargas García, Juan Antonio](https://github.com/juanantoniovargas/presentacionDual)
-
-<hr>
-
-### :calendar: Viernes 27 de mayo de 2022
-
-<img height="36px" src="accenture.svg">
-
-##### 1ºDAM
-
-* 09:30h [Castillo Muñoz, María Natalia](https://github.com/mnataliacm/FpDual2022_1DAM)
-* 09:40h [González Pons, Verónica](https://github.com/Veronicagnzpns/PresentacionFpDual2022)
-
-##### 1ºDAW
-
-* 09:50h [Mostazo Gámez, Alejandro]()
-
-<hr>
-
-<img height="30px" src="mayoral.svg">
-
-##### 1ºDAM
-
-* 10:00h [Rodríguez Barcos, Diego](https://github.com/diegorodrii/Presentacion_DUAL_1-DAM_Mayoral)
-
-<hr>
-
-<img height="46px" src="opplus.png">
-
-##### 1ºDAW
-
-* 10:10h [Muñoz Valenzuela, Miguel Ángel](https://github.com/miguelmunval/presentacion)
-* 10:20h [Sánchez Rojas, Pablo](https://github.com/PabloSanRoj/daw-presentacion-opplus-dual)
 
 <hr>
 
@@ -160,29 +104,39 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 
 ##### 1ºDAM
 
-* 10:30h [Parra Toval, Alberto](https://github.com/AlbertoParraToval/Presentacion_Properly_DAM_21_22)
+* 10:30h [Giráldez Guerrero, Alejandro](https://github.com/AlbertoParraToval/Presentacion_Properly_DAM_21_22)
+* 10:30h [Perogil Fernández, Adrián](https://github.com/AlbertoParraToval/Presentacion_Properly_DAM_21_22)
 
 <hr>
 
-<img height="30px" src="dekra.svg">
+<img "PC">
 
 ##### 1ºDAM
 
-* 10:40h [Antúnez Pérez, David](https://github.com/DavidAntunezPerez/presentation-dual-2022-dd)
-* 10:50h [Cueto Jiménez, Alejandro](https://github.com/AleCueto/presentation-dual-2022-dd)
-* 11:00h [Benítez Ruiz, José Antonio](https://github.com/JoseAntonioBenitez/presentacion-dual)
-* 11:10h [Moreno González, Alberto](https://github.com/albertomorenogonzalez/presentacion-dual)
+* 10:30h [Martín Gallardo, Javier](https://github.com/AlbertoParraToval/Presentacion_Properly_DAM_21_22)
 
 <hr>
 
-<img height="26px" src="nttdata.png">
+<img "Servatic">
+
+##### 1ºDAM
+
+* 10:30h [García Muñoz, Pablo](https://github.com/AlbertoParraToval/Presentacion_Properly_DAM_21_22)
+* 10:30h [Valente, Marco, Marco](https://github.com/AlbertoParraToval/Presentacion_Properly_DAM_21_22)
+
+<hr>
+
+<img height="28px" src="viewnext.png">
+
+##### 1ºDAM 
+
+* 12:00h [Gutiérrez Mellado, Juan Manuel](https://github.com/sergiomoralesgarcia/DesarrolloFacturas)
+* 12:10h [Ruiz Artacho, Marina](https://github.com/SergioDominguez15/Presentacion-Dual.git)
 
 ##### 1ºDAW
 
-* 11:45h [Aguilera García, Alejandro](https://github.com/alejandroAguileraGarcia/presentacion_dual)
-* 11:55h [González Calderón, Narciso](https://github.com/narsodev/daw-presentacion-dual)
-* 12:05h [Hernández Mangas, Ernesto](https://github.com/ehm4/Presentaci-n-dual)
-* 12:15h [Urbano Ruz, Alfonso](https://github.com/aUrbano24/presentacion-dual)
+* 12:20h [Cedillo Serrato, Francisco](https://github.com/FranciscoBautistaSomo/dualViewNextFranciscoBautista)
+* 12:30h [Santiago Perea, Vicente](https://github.com/hugosanchezg/presentacionDual)
 
 <hr>
 
