@@ -18,7 +18,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 
 <img height="28px" src="viewnext.png">
 
-##### 1ºDAM
+##### 1ºDAM M
 
 * 12:00h [Morales García, Sergio](https://github.com/sergiomoralesgarcia/DesarrolloFacturas)
 * 12:10h [Domínguez Gomez, Sergio](https://github.com/SergioDominguez15/Presentacion-Dual.git)
