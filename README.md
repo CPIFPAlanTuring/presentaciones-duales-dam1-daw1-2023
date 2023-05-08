@@ -17,7 +17,7 @@ Cada alumno debe subir su presentación (formato elegido y pdf) en la carpeta pr
 ### :calendar: Lunes 29 de mayo de 2023
 
 <img height="36px" src="accenture.svg">
-![Accenture] (https://drive.google.com/drive/folders/1gpkeOfsIk_ru_VZrFLiW2yWpiQRgDt6J?usp=sharing)
+[Accenture](https://drive.google.com/drive/folders/1gpkeOfsIk_ru_VZrFLiW2yWpiQRgDt6J?usp=sharing)
 
 
 ##### 1ºDAW
@@ -27,7 +27,7 @@ Cada alumno debe subir su presentación (formato elegido y pdf) en la carpeta pr
 
 ##### 1ºDAM
 
-* 09:50h [García Guerrero, Antonio Luis]()
+* 09:50h [García Guerrero, Antonio Luis]
 
 <hr>
 
