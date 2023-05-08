@@ -17,78 +17,94 @@ Cada alumno debe subir su presentación (formato elegido y pdf) en la carpeta pr
 ### :calendar: Lunes 29 de mayo de 2023
 
 <img height="36px" src="accenture.svg">
-[Carpeta de Accenture](https://drive.google.com/drive/folders/1gpkeOfsIk_ru_VZrFLiW2yWpiQRgDt6J?usp=sharing)
 
+[Carpeta Accenture](https://drive.google.com/drive/folders/1gpkeOfsIk_ru_VZrFLiW2yWpiQRgDt6J?usp=sharing)
+Hora de comienzo: 8:30h
 ##### 1ºDAM
 
-* 09:50h [García Guerrero, Antonio Luis]
+* [García Guerrero, Antonio Luis]
 
 ##### 1ºDAW
 
-* 09:30h Capilla Pérez, Ana
-* 09:40h Romero Martínez, Ginabra
+* Capilla Pérez, Ana
+* Romero Martínez, Ginebra
 
 <hr>
 
-<img "Airzone">
-[Carpeta de Airzone](https://drive.google.com/drive/folders/1Zt9m-TFQLxiqY9hYcSS0pqeXdNqemFez?usp=sharing)
+<img  height="30px" src="airzone.svg">
+
+[Carpeta Airzone](https://drive.google.com/drive/folders/1Zt9m-TFQLxiqY9hYcSS0pqeXdNqemFez?usp=sharing)
+Hora de comienzo: 8:50h
 
 ##### 1º DAW
 
-* 09:30h [Moreno Ayala, Alberto](https://github.com/mnataliacm/FpDual2022_1DAM)
+* Moreno Ayala, Alberto
 
 <hr>
 
-<img "CGI">
+<img height="30px" src="cgi.jpg">
 [Carpeta CGI](https://drive.google.com/drive/folders/1ce0kc9lUb5vCx0I0pxN6eUG5VrAGUrJs?usp=sharing)
+Hora de comienzo: 9:00h
 
 ##### 1º DAW
 
-* 09:30h [Rolando Martínez, Sergio](https://github.com/mnataliacm/FpDual2022_1DAM)
+* Rolando Martínez, Sergio
 
 <hr>
 
-<img "Dedalus">
+<img height="30px" src="dedalus-logo-white.jpg">
+[Carpeta Dedalus](https://drive.google.com/drive/folders/1M3YcADG9h8i7ssswwBoz6MeP5gqDUpTr?usp=sharing)
+Hora de comienzo: 9:10h
 
 ##### 1º DAW
 
-* 09:30h [López De la Torre, Julia](https://github.com/mnataliacm/FpDual2022_1DAM)
-* 09:30h [Díaz Marín, José Pablo](https://github.com/mnataliacm/FpDual2022_1DAM)
+* López De la Torre, Julia
+* Díaz Marín, José Pablo
 
 <hr>
 
 <img height="30px" src="dekra.svg">
+[Carpeta Dekra](https://drive.google.com/drive/folders/1mK6e1QySBa8xucviIQwbXWSF4b6EH_1h?usp=sharing)
+Hora de comienzo: 9:25h
 
 ##### 1ºDAW
 
-* 10:40h [Martos Ruiz, David](https://github.com/DavidAntunezPerez/presentation-dual-2022-dd)
-* 10:50h [Navas Martín, Jaime](https://github.com/AleCueto/presentation-dual-2022-dd)
+* Martos Ruiz, David
+* Navas Martín, Jaime
 
 <hr>
 
-<img "Hogarola">
+
+<img height="30px" src="hogarola.jpg">
+[Carpeta Hogarola](https://drive.google.com/drive/folders/1OdwqPWsNzMcNyUmviyIoer5kNB0J-OGD?usp=sharing)
+Hora de comienzo: 9:40h
 
 ##### 1º DAM
 
-* 09:30h [Herrera Sánchez, Jesús](https://github.com/mnataliacm/FpDual2022_1DAM)
+* Herrera Sánchez, Jesús
 
 <hr>
 
-<img "La Buhardilla del mark.">
+<img height="30px" src="buhardilla.jpg">
+[Carpeta Buhardilla](https://drive.google.com/drive/folders/14ovcRff1hUEMxhPoULpnqUUk_oA3TYtX?usp=sharing)
+Hora de comienzo: 9:50h
 
 ##### 1º DAM
 
-* 09:30h [Belean, Denisa-Ramona](https://github.com/mnataliacm/FpDual2022_1DAM)
+* Belean, Denisa-Ramona
 
 <hr>
 
 <img height="26px" src="nttdata.png">
 
+[Carpeta NTT Data](https://drive.google.com/drive/folders/1uCEgNppEP6G-nR29Fod73YeFCK_EXXE4?usp=sharing)
+Hora de comienzo: 10:00h
+
 ##### 1ºDAW
 
-* 11:45h [Sánchez Martín, Roberto](https://github.com/alejandroAguileraGarcia/presentacion_dual)
-* 11:55h [Portillo Hoyos, David](https://github.com/narsodev/daw-presentacion-dual)
-* 12:05h [Pucheta Posdeley, David Natanael](https://github.com/ehm4/Presentaci-n-dual)
+* Sánchez Martín, Roberto
+* Portillo Hoyos, David
+* Pucheta Posdeley, David Natanael
 
 <hr>
 
@@ -97,39 +113,63 @@ Cada alumno debe subir su presentación (formato elegido y pdf) en la carpeta pr
 
 <img height="46px" src="opplus.png">
 
+[Carpeta Opplus](https://drive.google.com/drive/folders/1mjb96ieFf0XykRO3KTqshPTL9bnZ2mnm?usp=sharing)
+Hora de comienzo: 8:30h
+
+
 ##### 1ºDAW
 
-* 10:10h [Sánchez Martínez, José](https://github.com/miguelmunval/presentacion)
+* Sánchez Martínez, José 
 
 <hr>
 
 <img height="32px" src="properly.png">
 
+[Carpeta Properly](https://drive.google.com/drive/folders/1bjUcLQZ_i94WBnCnvhw4IyNSvRWr1T7s?usp=sharing)
+Hora de comienzo: 8:40h
+
 ##### 1ºDAM
 
-* 10:30h [Giráldez Guerrero, Alejandro](https://github.com/AlbertoParraToval/Presentacion_Properly_DAM_21_22)
-* 10:30h [Perogil Fernández, Adrián](https://github.com/AlbertoParraToval/Presentacion_Properly_DAM_21_22)
+* Giráldez Guerrero, Alejandro
+* Perogil Fernández, Adrián
+
+##### 1ºDAW
+
+* Carazo Puga, José Manuel
 
 <hr>
 
-<img "PC">
+
+## PC
+[Carpeta PC](https://drive.google.com/drive/folders/1SEBBhfwRVoWEW7t-VF1mlidEv87a7cUr?usp=sharing)
+Hora de comienzo: 9:00h
 
 ##### 1ºDAM
 
-* 10:30h [Martín Gallardo, Javier](https://github.com/AlbertoParraToval/Presentacion_Properly_DAM_21_22)
+* Martín Gallardo, Javier
 
 <hr>
 
-<img "Servatic">
+<img height="32px" src="Serbatic.jpg">
+
+[Carpeta Serbatic](https://drive.google.com/drive/folders/15PBoTmR-01D-ZQpA85IlieE-pz2l_VFH?usp=sharing)
+Hora de comienzo: 9:10h
 
 ##### 1ºDAM
 
-* 10:30h [García Muñoz, Pablo](https://github.com/AlbertoParraToval/Presentacion_Properly_DAM_21_22)
-* 10:30h [Valente, Marco, Marco](https://github.com/AlbertoParraToval/Presentacion_Properly_DAM_21_22)
+* García Muñoz, Pablo
+* Valente, Marco
 
+##### 1ºDAW
+
+* Lanza Pérez, Juan Manuel
+* Bazaga Sarmiento, Marco, Jorge
+* Muñoz Jiménez, Jorge
 <hr>
 
 <img height="28px" src="viewnext.png">
+[Carpeta Viewnext](https://drive.google.com/drive/folders/18eVGkq1g-x5dKnbsL4xwlt681X1Zt94l?usp=sharing)
+Hora de comienzo: 9:40h
 
 ##### 1ºDAM 
 
