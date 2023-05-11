@@ -156,7 +156,7 @@ Cada alumno debe subir su presentación (formato elegido y pdf) en la carpeta pr
 
 <hr>
 
-<img height="60px" src="Serbatic.jpg">
+<img height="90px" src="Serbatic.jpg">
 
 [Carpeta Serbatic](https://drive.google.com/drive/folders/15PBoTmR-01D-ZQpA85IlieE-pz2l_VFH?usp=sharing)
 * Hora de comienzo: 9:25h
