@@ -5,7 +5,7 @@ Horarios, índices a las carpetas y normas para las presentaciones de alumnos du
 ## Índice
 
 * [Cuadrante horario de las presentaciones con índices a las carpetas](#cuadrante-horario-de-las-presentaciones-con-índices-a-los-repositorios)
-* [Tiempo para la presentación](#tiempo-para-la-presentación)
+* [Tiempo para la presentación](#stopwatch-tiempo-para-la-presentación)
 * [Contenido de la presentación](#contenido-de-la-presentación)
 * [Formato de la presentación](#formato-de-la-presentación)
 * [Lugar de la presentación](#lugar-de-la-presentación)
@@ -190,7 +190,7 @@ Cada alumno debe subir su presentación (formato elegido y pdf) en la carpeta pr
 
 <hr>
 
-## Tiempo para la presentación
+## :stopwatch: Tiempo para la presentación
 tiempo-para-la-presentación
 
 La presentación durará aproximadamente 5 minutos, dejando otros 5 minutos para un turno de preguntas.
