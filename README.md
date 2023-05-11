@@ -22,7 +22,7 @@ Cada alumno debe subir su presentación (formato elegido y pdf) en la carpeta pr
 * Hora de comienzo: 8:30h
 ##### 1ºDAM
 
-* [García Guerrero, Antonio Luis]
+* García Guerrero, Antonio Luis
 
 ##### 1ºDAW
 
@@ -34,7 +34,7 @@ Cada alumno debe subir su presentación (formato elegido y pdf) en la carpeta pr
 <img  height="30px" src="airzone.svg">
 
 [Carpeta Airzone](https://drive.google.com/drive/folders/1Zt9m-TFQLxiqY9hYcSS0pqeXdNqemFez?usp=sharing)
-Hora de comienzo: 8:50h
+* Hora de comienzo: 8:50h
 
 ##### 1º DAW
 
@@ -43,8 +43,9 @@ Hora de comienzo: 8:50h
 <hr>
 
 <img height="30px" src="cgi.jpg">
+
 [Carpeta CGI](https://drive.google.com/drive/folders/1ce0kc9lUb5vCx0I0pxN6eUG5VrAGUrJs?usp=sharing)
-Hora de comienzo: 9:00h
+* Hora de comienzo: 9:00h
 
 ##### 1º DAW
 
