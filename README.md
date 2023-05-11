@@ -6,9 +6,9 @@ Horarios, índices a las carpetas y normas para las presentaciones de alumnos du
 
 * [Cuadrante horario de las presentaciones con índices a las carpetas](#cuadrante-horario-de-las-presentaciones-con-índices-a-los-repositorios)
 * [Tiempo para la presentación](#stopwatch-tiempo-para-la-presentación)
-* [Contenido de la presentación](#:open-contenido-de-la-presentación)
-* [Formato de la presentación](#formato-de-la-presentación)
-* [Lugar de la presentación](#lugar-de-la-presentación)
+* [Contenido de la presentación](#open-contenido-de-la-presentación)
+* [Formato de la presentación](#bookmark_tabs-formato-de-la-presentación)
+* [Lugar de la presentación](#school-lugar-de-la-presentación)
 
 ## Cuadrante horario de las presentaciones con índices a los repositorios
 
@@ -205,13 +205,12 @@ La presentación debe tener, como mínimo, el siguiente contenido:
 * Valoración de la experiencia dual por parte del alumno.
 
 ## :bookmark_tabs: Formato de la presentación
-La presentación debe seguir las pautas explicadas en el módulo de Entornos de Desarrollo.
 
 Se puede utilizar cualquier herramienta para elaborar la presentación. El alumno se puede apoyar en material multimedia si lo considera oportuno.
 
-Independientemente de la herramienta utilizada para crear y mostrar la presentación, debe haber una versión en pdf en el repositorio de GitHub.
+Independientemente de la herramienta utilizada para crear y mostrar la presentación, debe haber una versión en pdf en la carpeta de la empresa asignada previamente.
 
-Cualquier material utilizado en la presentación debe estar disponible desde el repositorio de GitHub: presentación original, presentación en formato pdf, enlaces a videos, etc.
+Cualquier material utilizado en la presentación debe estar disponible desde esa misma carpeta: presentación original, presentación en formato pdf, enlaces a videos, etc.
 
 ## :school: Lugar de la presentación
 
