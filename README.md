@@ -54,8 +54,9 @@ Cada alumno debe subir su presentación (formato elegido y pdf) en la carpeta pr
 <hr>
 
 <img height="30px" src="dedalus-logo-white.svg">
+
 [Carpeta Dedalus](https://drive.google.com/drive/folders/1M3YcADG9h8i7ssswwBoz6MeP5gqDUpTr?usp=sharing)
-Hora de comienzo: 9:10h
+* Hora de comienzo: 9:10h
 
 ##### 1º DAW
 
@@ -65,8 +66,9 @@ Hora de comienzo: 9:10h
 <hr>
 
 <img height="30px" src="dekra.svg">
+
 [Carpeta Dekra](https://drive.google.com/drive/folders/1mK6e1QySBa8xucviIQwbXWSF4b6EH_1h?usp=sharing)
-Hora de comienzo: 9:25h
+* Hora de comienzo: 9:25h
 
 ##### 1ºDAW
 
