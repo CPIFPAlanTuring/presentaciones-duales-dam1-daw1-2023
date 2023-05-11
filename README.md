@@ -6,7 +6,7 @@ Horarios, índices a las carpetas y normas para las presentaciones de alumnos du
 
 * [Cuadrante horario de las presentaciones con índices a las carpetas](#cuadrante-horario-de-las-presentaciones-con-índices-a-los-repositorios)
 * [Tiempo para la presentación](#stopwatch-tiempo-para-la-presentación)
-* [Contenido de la presentación](#open-contenido-de-la-presentación)
+* [Contenido de la presentación](#open_file_folder-contenido-de-la-presentación)
 * [Formato de la presentación](#bookmark_tabs-formato-de-la-presentación)
 * [Lugar de la presentación](#school-lugar-de-la-presentación)
 
