@@ -90,6 +90,7 @@ Cada alumno debe subir su presentación (formato elegido y pdf) en la carpeta pr
 <hr>
 
 <img height="50px" src="buhardilla.jpg">
+
 [Carpeta Buhardilla](https://drive.google.com/drive/folders/14ovcRff1hUEMxhPoULpnqUUk_oA3TYtX?usp=sharing)
 * Hora de comienzo: 9:50h
 
