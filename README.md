@@ -103,7 +103,7 @@ Cada alumno debe subir su presentación (formato elegido y pdf) en la carpeta pr
 <img height="26px" src="nttdata.png">
 
 [Carpeta NTT Data](https://drive.google.com/drive/folders/1uCEgNppEP6G-nR29Fod73YeFCK_EXXE4?usp=sharing)
-Hora de comienzo: 10:00h
+* Hora de comienzo: 10:00h
 
 ##### 1ºDAW
 
@@ -119,7 +119,7 @@ Hora de comienzo: 10:00h
 <img height="46px" src="opplus.png">
 
 [Carpeta Opplus](https://drive.google.com/drive/folders/1mjb96ieFf0XykRO3KTqshPTL9bnZ2mnm?usp=sharing)
-Hora de comienzo: 8:30h
+* Hora de comienzo: 8:30h
 
 
 ##### 1ºDAW
@@ -131,7 +131,7 @@ Hora de comienzo: 8:30h
 <img height="32px" src="properly.png">
 
 [Carpeta Properly](https://drive.google.com/drive/folders/1bjUcLQZ_i94WBnCnvhw4IyNSvRWr1T7s?usp=sharing)
-Hora de comienzo: 8:40h
+* Hora de comienzo: 8:40h
 
 ##### 1ºDAM
 
@@ -146,8 +146,9 @@ Hora de comienzo: 8:40h
 
 
 ## PC
+
 [Carpeta PC](https://drive.google.com/drive/folders/1SEBBhfwRVoWEW7t-VF1mlidEv87a7cUr?usp=sharing)
-Hora de comienzo: 9:00h
+* Hora de comienzo: 9:00h
 
 ##### 1ºDAM
 
@@ -158,7 +159,7 @@ Hora de comienzo: 9:00h
 <img height="32px" src="Serbatic.jpg">
 
 [Carpeta Serbatic](https://drive.google.com/drive/folders/15PBoTmR-01D-ZQpA85IlieE-pz2l_VFH?usp=sharing)
-Hora de comienzo: 9:10h
+* Hora de comienzo: 9:10h
 
 ##### 1ºDAM
 
@@ -173,8 +174,9 @@ Hora de comienzo: 9:10h
 <hr>
 
 <img height="28px" src="viewnext.png">
+
 [Carpeta Viewnext](https://drive.google.com/drive/folders/18eVGkq1g-x5dKnbsL4xwlt681X1Zt94l?usp=sharing)
-Hora de comienzo: 9:40h
+* Hora de comienzo: 9:40h
 
 ##### 1ºDAM 
 
