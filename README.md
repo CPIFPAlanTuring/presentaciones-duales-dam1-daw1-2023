@@ -190,7 +190,8 @@ Cada alumno debe subir su presentación (formato elegido y pdf) en la carpeta pr
 
 <hr>
 
-## :stopwatch: Tiempo para la presentación
+## Tiempo para la presentación
+tiempo-para-la-presentación
 
 La presentación durará aproximadamente 5 minutos, dejando otros 5 minutos para un turno de preguntas.
 
