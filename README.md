@@ -1,10 +1,10 @@
 # Presentaciones duales de 1º DAW y 1º DAM del curso 2022 / 2023
 
-Horarios, índices a los repositorios de alumnos y normas para las presentaciones de alumnos duales de **1º DAM** (Desarrollo de Aplicaciones Multiplataforma) y **1º DAW** (Desarrollo de Aplicaciones Web) del **IES Campanillas** (Málaga) del curso 2021 - 2022.
+Horarios, índices a las carpetas y normas para las presentaciones de alumnos duales de **1º DAM** (Desarrollo de Aplicaciones Multiplataforma) y **1º DAW** (Desarrollo de Aplicaciones Web) del **CPIFP Nuevo** (Málaga - PTA) del curso 2022 - 2023.
 
 ## Índice
 
-* [Cuadrante horario de las presentaciones con índices a los repositorios](#cuadrante-horario-de-las-presentaciones-con-índices-a-los-repositorios)
+* [Cuadrante horario de las presentaciones con índices a las carpetas](#cuadrante-horario-de-las-presentaciones-con-índices-a-los-repositorios)
 * [Tiempo para la presentación](#tiempo-para-la-presentación)
 * [Contenido de la presentación](#contenido-de-la-presentación)
 * [Formato de la presentación](#formato-de-la-presentación)
@@ -19,7 +19,7 @@ Cada alumno debe subir su presentación (formato elegido y pdf) en la carpeta pr
 <img height="36px" src="accenture.svg">
 
 [Carpeta Accenture](https://drive.google.com/drive/folders/1gpkeOfsIk_ru_VZrFLiW2yWpiQRgDt6J?usp=sharing)
-Hora de comienzo: 8:30h
+*Hora de comienzo: 8:30h
 ##### 1ºDAM
 
 * [García Guerrero, Antonio Luis]
