@@ -79,7 +79,7 @@ Cada alumno debe subir su presentación (formato elegido y pdf) en la carpeta pr
 
 
 <img height="50px" src="hogarola.jpg">
-* [Carpeta Hogarola](https://drive.google.com/drive/folders/1OdwqPWsNzMcNyUmviyIoer5kNB0J-OGD?usp=sharing)
+[Carpeta Hogarola](https://drive.google.com/drive/folders/1OdwqPWsNzMcNyUmviyIoer5kNB0J-OGD?usp=sharing)
 * Hora de comienzo: 9:40h
 
 ##### 1º DAM
@@ -90,7 +90,7 @@ Cada alumno debe subir su presentación (formato elegido y pdf) en la carpeta pr
 
 <img height="50px" src="buhardilla.jpg">
 [Carpeta Buhardilla](https://drive.google.com/drive/folders/14ovcRff1hUEMxhPoULpnqUUk_oA3TYtX?usp=sharing)
-Hora de comienzo: 9:50h
+* Hora de comienzo: 9:50h
 
 ##### 1º DAM
 
