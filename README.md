@@ -34,7 +34,7 @@ Cada alumno debe subir su presentación (formato elegido y pdf) en la carpeta pr
 <img  height="30px" src="airzone.svg">
 
 [Carpeta Airzone](https://drive.google.com/drive/folders/1Zt9m-TFQLxiqY9hYcSS0pqeXdNqemFez?usp=sharing)
-* Hora de comienzo: 8:50h
+* Hora de comienzo: 8:55h
 
 ##### 1º DAW
 
@@ -45,7 +45,7 @@ Cada alumno debe subir su presentación (formato elegido y pdf) en la carpeta pr
 <img height="30px" src="cgi.jpg">
 
 [Carpeta CGI](https://drive.google.com/drive/folders/1ce0kc9lUb5vCx0I0pxN6eUG5VrAGUrJs?usp=sharing)
-* Hora de comienzo: 9:00h
+* Hora de comienzo: 9:10h
 
 ##### 1º DAW
 
@@ -56,7 +56,7 @@ Cada alumno debe subir su presentación (formato elegido y pdf) en la carpeta pr
 <img height="30px" src="dedalus-logo-white.svg">
 
 [Carpeta Dedalus](https://drive.google.com/drive/folders/1M3YcADG9h8i7ssswwBoz6MeP5gqDUpTr?usp=sharing)
-* Hora de comienzo: 9:10h
+* Hora de comienzo: 9:25h
 
 ##### 1º DAW
 
@@ -68,7 +68,7 @@ Cada alumno debe subir su presentación (formato elegido y pdf) en la carpeta pr
 <img height="30px" src="dekra.svg">
 
 [Carpeta Dekra](https://drive.google.com/drive/folders/1mK6e1QySBa8xucviIQwbXWSF4b6EH_1h?usp=sharing)
-* Hora de comienzo: 9:25h
+* Hora de comienzo: 9:45h
 
 ##### 1ºDAW
 
@@ -81,7 +81,7 @@ Cada alumno debe subir su presentación (formato elegido y pdf) en la carpeta pr
 <img height="50px" src="hogarola.jpg">
 
 [Carpeta Hogarola](https://drive.google.com/drive/folders/1OdwqPWsNzMcNyUmviyIoer5kNB0J-OGD?usp=sharing)
-* Hora de comienzo: 9:40h
+* Hora de comienzo: 10:05h
 
 ##### 1º DAM
 
@@ -92,7 +92,7 @@ Cada alumno debe subir su presentación (formato elegido y pdf) en la carpeta pr
 <img height="50px" src="buhardilla.jpg">
 
 [Carpeta Buhardilla](https://drive.google.com/drive/folders/14ovcRff1hUEMxhPoULpnqUUk_oA3TYtX?usp=sharing)
-* Hora de comienzo: 9:50h
+* Hora de comienzo: 10:20h
 
 ##### 1º DAM
 
@@ -103,7 +103,7 @@ Cada alumno debe subir su presentación (formato elegido y pdf) en la carpeta pr
 <img height="26px" src="nttdata.png">
 
 [Carpeta NTT Data](https://drive.google.com/drive/folders/1uCEgNppEP6G-nR29Fod73YeFCK_EXXE4?usp=sharing)
-* Hora de comienzo: 10:00h
+* Hora de comienzo: 10:35h
 
 ##### 1ºDAW
 
@@ -131,7 +131,7 @@ Cada alumno debe subir su presentación (formato elegido y pdf) en la carpeta pr
 <img height="32px" src="properly.png">
 
 [Carpeta Properly](https://drive.google.com/drive/folders/1bjUcLQZ_i94WBnCnvhw4IyNSvRWr1T7s?usp=sharing)
-* Hora de comienzo: 8:40h
+* Hora de comienzo: 8:45h
 
 ##### 1ºDAM
 
@@ -148,7 +148,7 @@ Cada alumno debe subir su presentación (formato elegido y pdf) en la carpeta pr
 ## PC
 
 [Carpeta PC](https://drive.google.com/drive/folders/1SEBBhfwRVoWEW7t-VF1mlidEv87a7cUr?usp=sharing)
-* Hora de comienzo: 9:00h
+* Hora de comienzo: 9:10h
 
 ##### 1ºDAM
 
@@ -159,7 +159,7 @@ Cada alumno debe subir su presentación (formato elegido y pdf) en la carpeta pr
 <img height="32px" src="Serbatic.jpg">
 
 [Carpeta Serbatic](https://drive.google.com/drive/folders/15PBoTmR-01D-ZQpA85IlieE-pz2l_VFH?usp=sharing)
-* Hora de comienzo: 9:10h
+* Hora de comienzo: 9:25h
 
 ##### 1ºDAM
 
@@ -176,7 +176,7 @@ Cada alumno debe subir su presentación (formato elegido y pdf) en la carpeta pr
 <img height="28px" src="viewnext.png">
 
 [Carpeta Viewnext](https://drive.google.com/drive/folders/18eVGkq1g-x5dKnbsL4xwlt681X1Zt94l?usp=sharing)
-* Hora de comienzo: 9:40h
+* Hora de comienzo: 10:00h
 
 ##### 1ºDAM 
 
@@ -191,11 +191,8 @@ Cada alumno debe subir su presentación (formato elegido y pdf) en la carpeta pr
 <hr>
 
 ## :stopwatch: Tiempo para la presentación
-tiempo-para-la-presentación
 
-La presentación durará aproximadamente 5 minutos, dejando otros 5 minutos para un turno de preguntas.
-
-Los alumnos de una misma empresa deberán estar juntos a la hora que le toque al primero de esa empresa para poder hablar juntos sobre la misma. Por ejemplo, todos los alumnos de Viewnext deberán estar presentes a las 12:00h ya que esa es la hora a la que está citado el primer alumno de dicha empresa.
+Los alumnos de una misma empresa deberán de realizar una presentación común de la misma cuya duración será de 5 minutos como máximo. A continuación, cada alumno realizará una presentación individualizada de su trabajo, dejando otros 5 minutos para un turno de preguntas común.
 
 ## :open_file_folder: Contenido de la presentación
 
